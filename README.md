@@ -1,6 +1,6 @@
 # File Parser
 
-The file parser is a simple program that reads the contents of a given file, searches for the word and replaces it with a given word. The original file is not overwritten, but is written to a new file.
+The file parser is a simple program that reads the contents of a given file, searches for the word and replaces it with a given word.
 
 ## How to use
 
