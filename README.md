@@ -43,5 +43,5 @@ rustc main.rs
 ### Example
 
 ```bash
-./file_parser edition std /path/to/the/input.txt /path/to/the/output.txt
+./file_parser edition std /path/to/the/input.txt /path/for/the/output.txt
 ```
